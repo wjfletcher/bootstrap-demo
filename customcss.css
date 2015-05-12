@@ -6,10 +6,14 @@ body {
     height: 100%;
 }
 
+navvisible {
+    
+}
 
-.navbar {
+.navhidden {
     margin-bottom: 0px !important;
     position: absolute;
+    background-color: white !important;
     
 }
 
@@ -52,7 +56,7 @@ body {
 
 .glyphicon-chevron-down {
     font-size: 35px;
-    color: white;
+    color: red;
 }
 
 /*.glyphicon-chevron-down:hover {
